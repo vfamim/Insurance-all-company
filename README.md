@@ -1,23 +1,23 @@
 # Table of Contents
 
-1. Introduction
-2. Data
-   1. Data Source
-   2. Data Dimension
-   3. Columns Description
-3. Exploratory Data Analysis
-   1. Univariate Analysis
-      1. Target Variable
-      2. Numerical Variables Distribution
-      3. Categorical
-   2. Bivariate Analysis
-   3. Multivariate Analysis
-      1. Numerical Attributes
-      2. Categorical Variables
-4. Machine Learning Model
-   1. Single Performance
-   2. Real Performance
-5. Business Performance
+1. [Introduction](#introduction)
+2. [Data](#data)
+   1. [Data Source](#data-source)
+   2. [Data Dimension](#data-dimension)
+   3. [Columns Description](#columns-description)
+3. [Exploratory Data Analysis](#exploratory-data-analysis)
+   1. [Univariate Analysis](#univariate-analysis)
+      1. [Target Variable](#target-variable)
+      2. [Numerical Variables Distribution](#numerical-variables-distribution)
+      3. [Categorical](#categorical)
+   2. [Bivariate Analysis](#bivariate-analysis)
+   3. [Multivariate Analysis](#multivariate-analysis)
+      1. [Numerical Attributes](#numerical-attributes)
+      2. [Categorical Variables](#categorical-variables)
+4. [Machine Learning Model](#machine-learning-model)
+   1. [Single Performance](#single-performance)
+   2. [Real Performance](#real-performance)
+5. [Business Performance](#business-performance)
 
 # Introduction
 
