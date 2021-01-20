@@ -89,15 +89,15 @@ The customers with health insurance interest is approximately 9%.
 
 The number of people interested in the service is **46710** and those not interested are **461436**. This shows an imbalance data.
 
-![img01](D:\MEUS_PROJETOS_DS\Insurance all company\img\img01.svg)
+![img01](https://github.com/vfamim/Insurance-all-company/blob/master/img/img01.svg)
 
 ### Numerical Variables Distribution
 
-![img02](D:\MEUS_PROJETOS_DS\Insurance all company\img\img02.svg)
+![img02](https://github.com/vfamim/Insurance-all-company/blob/master/img/img02.svg)
 
 ### Categorical Variable
 
-![img03](D:\MEUS_PROJETOS_DS\Insurance all company\img\img03.svg)
+![img03](https://github.com/vfamim/Insurance-all-company/blob/master/img/img03.svg)
 
 ## Bivariate Analysis
 
@@ -117,11 +117,11 @@ The number of people interested in the service is **46710** and those not intere
 
 ### Numerical Attributes
 
-![img04](D:\MEUS_PROJETOS_DS\Insurance all company\img\img04.svg)
+![img04](https://github.com/vfamim/Insurance-all-company/blob/master/img/img04.svg)
 
 ### Categorical Variables
 
-![img05](D:\MEUS_PROJETOS_DS\Insurance all company\img\img05.svg)
+![img05](https://github.com/vfamim/Insurance-all-company/blob/master/img/img05.svg)
 
 # Machine Learning Model
 
@@ -186,7 +186,7 @@ Among the models, the XGBoost Classifier perform better, it presents results clo
 | -------------------: | ----------------: | ---------------: | ---------------: | ----------------: | :---------------: |
 | XGBoost Classifier + | 0.8613 +/- 0.1486 | 0.831 +/- 0.0556 | 0.901 +/- 0.3208 | 0.8588 +/- 0.2103 | 0.8613 +/- 0.1486 |
 
-<img src="D:\MEUS_PROJETOS_DS\Insurance all company\img\img06.svg" style="zoom:80%;" />
+<img src="https://github.com/vfamim/Insurance-all-company/blob/master/img/img06.svg" style="zoom:80%;" />
 
 > The value of AUC ranges from 0.0 to 1.0 and the threshold between the class is 0.5. That is, above this limit, the algorithm classifies in one class and below in the other class.
 >
@@ -196,13 +196,13 @@ Among the models, the XGBoost Classifier perform better, it presents results clo
 
 The percentage of customers who show interest on the service is 20%.
 
-![img07](D:\MEUS_PROJETOS_DS\Insurance all company\img\img07.svg)
+![img07](https://github.com/vfamim/Insurance-all-company/blob/master/img/img07.svg)
 
 ## 3. If the sales team's capacity increases to 40,000 calls, what percentage of customers interested in purchasing auto insurance will the sales team be able to contact?
 
 The increase in sales team capacity from 20,000 to 40,000 has nearly doubled the number of customers acquired.
 
-![img08](D:\MEUS_PROJETOS_DS\Insurance all company\img\img08.svg)
+![img08](https://github.com/vfamim/Insurance-all-company/blob/master/img/img08.svg)
 
 ## 4. How many calls the sales team need to make to contact 80% of customers interested in purchasing auto insurance?
 
