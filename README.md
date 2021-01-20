@@ -21,7 +21,7 @@
 
 # Introduction
 
-<img src="D:\MEUS_PROJETOS_DS\Insurance all company\img\cover.jpg" style="zoom:30%;" />
+![cover](https://github.com/vfamim/Insurance-all-company/blob/master/img/cover.jpg)
 
 ### Context
 
